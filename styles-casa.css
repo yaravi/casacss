@@ -1,0 +1,58 @@
+* {
+    margin:0;
+    padding:0;
+    }
+body {
+    background-color: rgb(252, 247, 247);
+}
+.section-techo {
+    float: none;
+    background-color: brown;
+    width: 700px;
+    height: 40px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+.section-estructura {
+    float: none;
+    background-color:coral;
+    width: 700px;
+    height: 700px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+.section-ventana {
+    background-color:rgb(70, 103, 122);
+    width: 100px;
+    height: 100px;
+    position:absolute;
+    top: 170px;
+    left: 1050px;
+}
+.section-puerta {
+    background-color:rgb(143, 30, 118);
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    top: 472px;
+    left: 950px;
+}
+.section-cerradura {
+    background-color:rgb(16, 177, 37);
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 650px;
+    left: 980px;
+}
+.section-piso {
+    float: none;
+    background-color:rgb(112, 105, 103);
+    width: 1000px;
+    height: 40px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
